@@ -1,8 +1,8 @@
 # Blockifier
 
-## Installation
+## Installation :muscle:
 
-### Windows
+### Windows :window:
 
 To install Blockifier, follow these steps:
 
@@ -14,7 +14,7 @@ To install Blockifier, follow these steps:
 
 4. Open the `Blockifier.exe` file to start the game!
 
-### Mac OS
+### Mac OS :apple:
 
 To install Blockifier, follow these steps:
 
@@ -24,7 +24,7 @@ To install Blockifier, follow these steps:
 
 3. Open the `Blockifier` application to start the game!
 
-### Linux (Not exactly sure how it works)
+### Linux :penguin: (Not exactly sure how it works)
 
 To install Blockifier, follow these steps:
 
@@ -36,6 +36,8 @@ To install Blockifier, follow these steps:
 
 4. Open the `Blockifier.x86_64` file to start the game!
 
-## Credits
+## Credits :sleeping:
 
-[Brackey's First Video Game series](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+### 1. [Brackey's First Video Game series](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+
+### 2. [VihaanVP Channel](https://www.youtube.com/@vihaanvp?sub_confirmation=1)
